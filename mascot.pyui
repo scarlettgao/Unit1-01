@@ -1,0 +1,100 @@
+[
+  {
+    "selected" : false,
+    "frame" : "{{0, 0}, {530, 475}}",
+    "class" : "View",
+    "nodes" : [
+      {
+        "selected" : false,
+        "frame" : "{{60, 106}, {158, 43}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_size" : 15,
+          "frame" : "{{225, 222}, {80, 32}}",
+          "title" : "Mother Teresa HS",
+          "class" : "Button",
+          "name" : "Mother Teresa HS_button",
+          "uuid" : "5FD5AD9C-3438-45B7-AF22-C59EF4A9C5D1"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{60, 206}, {132, 45}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_size" : 15,
+          "frame" : "{{225, 222}, {80, 32}}",
+          "title" : "St.Joe HS",
+          "class" : "Button",
+          "name" : "St.Joe HS_button",
+          "uuid" : "9F5226CA-6B92-4225-B054-4BEACF9731CE"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{60, 313}, {125, 49}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_size" : 15,
+          "frame" : "{{225, 222}, {80, 32}}",
+          "title" : "St.Mark HS",
+          "class" : "Button",
+          "name" : "St.Mark HS_button",
+          "uuid" : "65D5942A-0067-4330-9D37-622E965515ED"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{281, 151}, {180, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{190, 222}, {150, 32}}",
+          "uuid" : "94C47401-1B68-4C33-B69F-8D4787B9DE2C",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "Mother Teresa HS",
+          "name" : "Mother Teresa HS_label",
+          "font_size" : 18
+        }
+      },
+      {
+        "selected" : true,
+        "frame" : "{{281, 258}, {150, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{190, 222}, {150, 32}}",
+          "uuid" : "9295690F-0095-40CC-9EAD-0F5BA21635C5",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "Titans",
+          "name" : "Titans_label",
+          "font_size" : 18
+        }
+      }
+    ],
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    }
+  }
+]
